@@ -31,3 +31,12 @@ STYLE GUIDE:
 * tbd
 
 ***
+
+# Hubtype
+### Less than 160 Characters describing what we're building. Include external links here if desired
+* Teammates: Eric
+* Seeking Teammates: No
+* [Project URL](https://github.com/hubtype/botonic)
+* Botonic
+
+***
